@@ -15,7 +15,7 @@ A Smol Slime requires the following components:
 
 https://docs.shinebright.dev/diy/smol-slime.html
 
-So I saw some debate about 8 trackers vs 8+ trackers. And some information about recievers can support 8+. How many trackers would you use for game development animation motion capture?
+I saw some debate about eight trackers vs. 8+ trackers and information about receivers supporting 8+. How many trackers would you use for game development animation motion capture?
 
 Lyall (1st Stacked Smolslime) — Today at 12:05
 Receivers can support 8+, official is 8. Mileage above 8 may vary but for me it's fine
@@ -26,13 +26,13 @@ And I think 20 for mocap
 
 iFire — Today at 12:06
 
-So like two recievers dongles? or would you solo it?
+So, like two receivers dongles? Or would you solo it?
 
 Lyall (1st Stacked Smolslime) — Today at 12:06
 
-I'd say that's a safe bet
+I'd say that's a safe bet.
 
-imo I'd have one dongle for the main 10, and the other dongle for all the other points used for increased accuracy
+IMO I'd have one dongle for the main 10, and the other dongle for all the other points used for increased accuracy
 
 ![slime_placements](slime_placements.png)
 
