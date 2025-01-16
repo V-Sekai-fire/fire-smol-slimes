@@ -15,6 +15,12 @@ A Smol Slime requires the following components:
 - Seeed Studio XIAO nRF52840 microcontroller
 - Tracker Case with printed tracker positions and (L) (R) (L) (R) printed uniquely.
 
+# Notes
+
+Smol Slimes don't support extensions.
+
+# Design
+
 I saw some debate about eight trackers vs. 8+ trackers and information about receivers supporting 8+. How many trackers would you use for game development animation motion capture?
 
 Lyall (1st Stacked Smolslime) — Today at 12:05
