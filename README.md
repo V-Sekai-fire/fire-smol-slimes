@@ -1,4 +1,4 @@
-# fire-smol-slimes
+# Readme
 
 https://docs.shinebright.dev/diy/smol-slime.html
 
@@ -17,7 +17,7 @@ A Smol Slime requires the following components:
 - Seeed Studio XIAO nRF52840 microcontroller
 - Tracker Case with printed tracker positions and (L) (R) (L) (R) printed uniquely.
 
-# Community Notes
+# Community notes
 
 Smol Slimes don't support extensions.
 
