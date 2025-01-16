@@ -23,7 +23,7 @@ Smol Slimes don't support extensions.
 
 Lyall's case is 41x36x7mm in dimensions, with strap handles. The board is 33x18mm and the battery is a 401030 lipo.
 
-# Design
+iFire
 
 I saw some debate about eight trackers vs. 8+ trackers and information about receivers supporting 8+. How many trackers would you use for game development animation motion capture?
 
