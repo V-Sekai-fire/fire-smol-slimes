@@ -17,7 +17,7 @@ A Smol Slime requires the following components:
 - Seeed Studio XIAO nRF52840 microcontroller
 - Tracker Case with printed tracker positions and (L) (R) (L) (R) printed uniquely.
 
-# Notes
+# Community Notes
 
 Smol Slimes don't support extensions.
 
