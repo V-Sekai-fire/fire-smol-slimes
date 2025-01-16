@@ -23,17 +23,9 @@ Smol Slimes don't support extensions.
 
 Lyall's case is 41x36x7mm in dimensions, with strap handles. The board is 33x18mm and the battery is a 401030 lipo.
 
-iFire
+iFire saw some debate about eight trackers vs. 8+ trackers and information about receivers supporting 8+. How many trackers would you use for game development animation motion capture?
 
-I saw some debate about eight trackers vs. 8+ trackers and information about receivers supporting 8+. How many trackers would you use for game development animation motion capture?
-
-Lyall (1st Stacked Smolslime) — Today at 12:05
-
-Receivers can support 8+, official is 8. Mileage above 8 may vary but for me it's fine
-
-Can use multiple receivers to get around it if there's an issue
-
-And I think 20 for mocap
+Lyall (1st Stacked Smolslime) — Receivers can support 8+, official is 8. Mileage above 8 may vary but for me it's fine. Can use multiple receivers to get around it if there's an issue. And I think 20 for mocap.
 
 iFire — Today at 12:06
 
@@ -41,9 +33,7 @@ So, like two receivers dongles? Or would you solo it?
 
 Lyall (1st Stacked Smolslime) — Today at 12:06
 
-I'd say that's a safe bet.
-
-IMO I'd have one dongle for the main 10, and the other dongle for all the other points used for increased accuracy
+I'd say that's a safe bet. IMO I'd have one dongle for the main 10, and the other dongle for all the other points used for increased accuracy
 
 ![slime_placements](slime_placements.png)
 
