@@ -2,7 +2,7 @@
 
 https://docs.shinebright.dev/diy/smol-slime.html
 
-I want to design a 20-tracker Smol Slime for game development animation motion capture.
+Fire wants to design a 20-tracker Smol Slime for game development animation motion capture.
 
 # Bill of materials
 
