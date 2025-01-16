@@ -4,7 +4,9 @@ https://docs.shinebright.dev/diy/smol-slime.html
 
 A Smol Slime requires the following components:
 
-- Receiver eByte Dongle (E104-BT5040U)
+# Bill of materials
+
+- Receiver eByte Dongle (E104-BT5040U) (Like two receivers for 20 trackers).
 - USB-C battery charger
 - Eight trackers
 - Battery pack
