@@ -1,5 +1,7 @@
 # fire-smol-slimes
 
+https://docs.shinebright.dev/diy/smol-slime.html
+
 A Smol Slime requires the following components:
 
 - Receiver eByte Dongle (E104-BT5040U)
@@ -12,8 +14,6 @@ A Smol Slime requires the following components:
 - Slide switch
 - Seeed Studio XIAO nRF52840 microcontroller
 - Tracker Case with printed tracker positions and (L) (R) (L) (R) printed uniquely.
-
-https://docs.shinebright.dev/diy/smol-slime.html
 
 I saw some debate about eight trackers vs. 8+ trackers and information about receivers supporting 8+. How many trackers would you use for game development animation motion capture?
 
