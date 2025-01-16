@@ -19,13 +19,7 @@ A Smol Slime requires the following components:
 
 Smol Slimes don't support extensions.
 
-Lyall's case is 41x36x7mm in dimensions, with strap handles.
-
-The board is 33x18mm
-
-Lyall (1st Stacked Smolslime) — Today at 11:51
-
-and the battery is a 401030 lipo
+Lyall's case is 41x36x7mm in dimensions, with strap handles. The board is 33x18mm and the battery is a 401030 lipo.
 
 # Design
 
