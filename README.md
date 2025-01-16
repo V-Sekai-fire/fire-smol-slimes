@@ -18,6 +18,7 @@ A Smol Slime requires the following components:
 I saw some debate about eight trackers vs. 8+ trackers and information about receivers supporting 8+. How many trackers would you use for game development animation motion capture?
 
 Lyall (1st Stacked Smolslime) — Today at 12:05
+
 Receivers can support 8+, official is 8. Mileage above 8 may vary but for me it's fine
 
 Can use multiple receivers to get around it if there's an issue
